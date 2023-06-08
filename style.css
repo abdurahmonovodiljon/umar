@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+.mol{
+  color:green; 
+  font-size: 65px;
+  text-align: center;
+}
+
+.umar{
+  color: white;
+  font-size: 90px;
+  text-align: center;
+}
+
+.jim{
+  color:rgb(77, 78, 75);
+  font-size: 65px;
+  width: 400;
+  padding-top: 50px;
+  text-align: center;
+}
